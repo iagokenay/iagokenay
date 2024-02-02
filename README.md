@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi 👋
 
 <div style="display: inline_block"><br>
+  <<img align="center" alt="a-Python" height="30" width="40" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
   <img align="center" alt="a-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="a-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="a-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
