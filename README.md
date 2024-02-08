@@ -24,3 +24,5 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=shahradelahi)
+
+![RobimSanatan GitHub stats](https://github-readme-stats.vercel.app/api?username=RobimSantana&show_icons=true&theme=merko)
